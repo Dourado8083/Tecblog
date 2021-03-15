@@ -1,0 +1,47 @@
+
+body{
+	background: #E6E6E6;
+	margin: 0px;
+
+}
+#BarraMenu{
+	background-color: orange;
+}
+#BarraMenu h1{
+margin: 0px;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 10px;
+font-size: 50px;
+font-family: sans-serif;
+}
+#BarraMenu span{
+	color: #FFFFFF;
+}
+#Links{
+text-align: center;
+justify-content: center;
+padding-bottom: 30px;
+padding-top: 6px;
+
+}
+#Links a {
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #FFFFFF;
+    padding-left: 30px;
+    text-decoration: none;
+}
+#AreaPostagens{
+	border: 2px solid blue;
+	width: 700px;
+	border-radius: 17px;
+	margin-top:10px;
+	margin-left: 200px;
+	height: 1500px;
+	background-color: #FFFFFF;
+	font-family: sans-serif;
+}
+#AreaPostagens p{
+	padding-top: 23px;
+}
